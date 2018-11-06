@@ -1,3 +1,4 @@
 这是练习git命令所写的文本
 合并分支操作
 meragedemo合并之前
+这是master分支上的内容
